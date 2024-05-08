@@ -9,3 +9,8 @@
 
 # Users Page
 <img width="177" alt="image" src="https://github.com/shag-limam/flutter/assets/84734216/61136b11-ae28-4204-b4ce-1b6fe1769d9f">
+
+
+# BMI CALCULATOR
+
+![image](https://github.com/shag-limam/flutter/assets/84734216/e4fb22d1-3811-4c3b-a237-a2f6029cc697)
