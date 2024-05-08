@@ -13,11 +13,7 @@ class UserModel {
 }
 class UsersScreen extends StatelessWidget {
   List<UserModel> users=[
-<<<<<<< HEAD
-    UserModel(id: 1, name: 'Isac', phone: '222 31 71 74 41'),
-=======
     UserModel(id: 1, name: 'Ishag', phone: '222 31 71 74 41'),
->>>>>>> origin/main
     UserModel(id: 2, name: 'Sophie', phone: '333 12 45 67 89'),
     UserModel(id: 3, name: 'Ahmed', phone: '444 98 76 54 32'),
     UserModel(id: 4, name: 'Amina', phone: '555 23 45 67 89'),
